@@ -1,0 +1,29 @@
+leftnav:
+- identifier: 210eaacb-d63a-42bd-80e6-0450fd2711e1
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 1e96c9c6-44e1-4191-8866-61676397b8a0
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 0d275120-aed7-40c6-b602-ae04f6b10595
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 30
+- identifier: e6e02013-a22f-45df-bda4-58a028256cbf
+  name: Supplementary Notes
+  pageRef: /pages/supplementary-notes
+  weight: 40
+- identifier: 325a15c0-f720-4275-b2e7-6e70a2442e93
+  name: Mathematica Codes
+  pageRef: /pages/mathematica-codes
+  weight: 50
+- identifier: 8e96537a-8c42-4123-9e7f-945a6018bca6
+  name: Problem Sets
+  pageRef: /pages/problem-sets
+  weight: 60
+- identifier: b3a598b5-d63b-406b-b5cb-c6e355cb912f
+  name: Final Exam
+  pageRef: /pages/exams
+  weight: 70
