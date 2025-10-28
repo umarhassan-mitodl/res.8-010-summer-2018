@@ -27,8 +27,7 @@
     "website": "introduction-to-statistical-physics"
   },
   "course_title": "Introduction to Statistical Physics",
-  "hide_download": true,
-  "course_description": "*Introduction to Statistical Physics* introduces the concepts and formalism at the foundations of statistical physics. By the end of the course, students should understand qualitative and quantitative definitions of entropy, the implications of the laws of thermodynamics, and why the Boltzmann distribution is important in modeling systems at finite temperature. In terms of skills, students should have increased their familiarity with mathematical methods in the physical science, learned how to write short programs to simulate random events, and become more adept at articulating their understanding of physics.\n\nThis course was offered as part of [MITES Summer](https://mites.mit.edu/discover-mites/mites-summer/), a six-week, residential STEM experience for rising high school seniors. [MIT Introduction to Technology, Engineering, and Science (MITES)](https://mites.mit.edu/) provides transformative experiences that bolster confidence, create lifelong community, and build an exciting, challenging foundation in STEM for highly motivated 7th\u201312th grade students from diverse and underrepresented backgrounds.",
+  "course_description": "*Introduction to Statistical Physics* introduces the concepts and formalism at the foundations of statistical physics. By the end of the course, students should understand qualitative and quantitative definitions of entropy, the implications of the laws of thermodynamics, and why the Boltzmann distribution is important in modeling systems at finite temperature. In terms of skills, students should have increased their familiarity with mathematical methods in the physical science, learned how to write short programs to simulate random events, and become more adept at articulating their understanding of physics.\n\nThis course was offered as part of {{% resource_link \"0689bbb9-7266-4905-b841-6e160469f937\" \"MITES Summer\" %}}, a six-week, residential STEM experience for rising high school seniors. {{% resource_link \"edbf5e1e-d751-4fce-9e25-689e7035674f\" \"MIT Introduction to Technology, Engineering, and Science (MITES)\" %}} provides transformative experiences that bolster confidence, create lifelong community, and build an exciting, challenging foundation in STEM for highly motivated 7th\u201312th grade students from diverse and underrepresented backgrounds.",
   "department_numbers": [
     "8"
   ],
@@ -38,7 +37,6 @@
     "content": "cbcc4c9c-8296-4c76-b94a-ef3df8295bfa",
     "website": "introduction-to-statistical-physics"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets with Solutions",
