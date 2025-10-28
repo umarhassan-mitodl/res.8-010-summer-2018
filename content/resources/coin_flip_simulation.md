@@ -5,8 +5,6 @@ draft: false
 file: /courses/res-8-010-introduction-to-statistical-physics-summer-2018/coin_flip_simulation.nb
 file_size: 20694
 file_type: application/mathematica
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

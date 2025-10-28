@@ -5,8 +5,6 @@ draft: false
 file: /courses/res-8-010-introduction-to-statistical-physics-summer-2018/spin_model_simulation_soln.nb
 file_size: 257844
 file_type: application/mathematica
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -5,8 +5,6 @@ draft: false
 file: /courses/res-8-010-introduction-to-statistical-physics-summer-2018/mitres_8_010su18_pset5.pdf
 file_size: 345254
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
